@@ -134,6 +134,5 @@ entered as 2-4 means Round Robin with q=4. Also, policy 8-1 means Aging with q=1
 
 ## Contributors
 
-- [Yousef Kotp](https://github.com/yousefkotp)
+- [Saurabh Kumar](https://github.com/saurabh2226)
 
-- [Adham Mohammed](https://github.com/adhammohamed1)
