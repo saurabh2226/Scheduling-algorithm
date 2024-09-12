@@ -92,13 +92,11 @@ the following steps.
 ## Installation
 1- Clone the repository
 
-2- Install g++ compiler and make
-```bash
-sudo apt-get install g++ make
-```
-3- Compile the code using `make` command
+2- Open the file in any code editor like VS Code
 
-4- Run the executable file
+3- Install all the C++ extensions like Code Runner and click on the run code button on the top right side.
+
+4- Run the executable file and giver the input from testcases folder.
 
 ## Input Format
 - Line 1: "trace" or "stats"
